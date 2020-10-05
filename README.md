@@ -1,1 +1,1 @@
-Pemlajaran logika sederhana js
+Pembelajaran logika sederhana js
